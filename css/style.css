@@ -1,0 +1,307 @@
+body{
+    top: 0;
+    left: 0;
+    margin: 0px;
+    padding: 0px;
+    font-family: "Segoe UI", SegoeUI, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#for-header{
+    /* margin-top: -20px; */
+    background-color: white;
+    float: left;
+    width: 100%;
+    height: 20%;
+}
+.for-log{
+    float: left;
+    margin-left: 5%;
+    margin-top: 1%;
+    width: 8%;
+}
+.for-log img{
+    width: 100%;
+    height: 100%;
+}
+#for-header h5{
+    /* margin-bottom: 0.4px; */
+    /* margin-top: -0.1%; */
+    float: left;
+    margin-left: 2%;
+    color: grey;
+}
+.for-sear{
+    margin-right: 3%;
+    margin-top: 1%;
+    float: right;
+    height: 4%;
+    width: 4%;
+}
+.for-sear img{
+    width: 100%;
+    height: 100%;
+}
+.for-sear2{
+    margin-right: 0.7%;
+    margin-top: 1.2%;
+    float: right;
+    height: 2.5%;
+    width: 2.5%;
+}
+.for-sear2 img{
+    width: 100%;
+    height: 100%;
+}
+.for-sear3{
+    margin-right: 2%;
+    margin-top: 1.6%;
+    float: right;
+    height: 1.5%;
+    width: 1.5%;
+}
+.for-sear3 img{
+    width: 100%;
+    height: 100%;
+}
+.backpic3{
+    display: flex;
+    width: 100%;
+    height: 60%;
+    /* background-color: brown; */
+    background-color: rgb(241, 241, 241);
+}
+.logo_of_backimage{
+    /* background: url(../img/Family_04_RGB.jpg) no-repeat; */
+    width: auto;
+    float: left;
+    margin-left: -130px;
+    height: 580px;
+}
+.logo_of_backimage img{
+    width: 100%;
+    /* border: none; */
+    height: 100%;
+}
+.for-pop{
+    /* float: right; */
+    width: 175px;
+    margin-top: 17%;
+    /* margin-bottom: auto; */
+    /* color: red; */
+}
+.para-fro-dec{
+    margin-left: -12.4%;
+    margin-top: 20%;
+}
+.for-learn-more{
+    width: 150px;
+    height: 40px;
+}
+.for-learn-more{
+    width: 8%;
+    margin-left: -28.2%;
+    border: none;
+    font-size: 16px;
+    color: white;
+    background-color: rgb(54, 54, 248);
+    margin-top: 25%;
+}
+#forlogo{
+    margin-top: 60px;
+    width: 100%;
+    height: 120px;
+    /* border: 1px solid red; */
+}
+.for-under-box6{
+    display: flex;
+    height: 100%;
+    width: 85%;
+    /* border: 1px solid blue; */
+    margin-left: auto;
+    margin-right: auto;
+}
+.for-multi-box{
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 250px;
+    height: 90px;
+    /* border: 1px solid red; */
+    float: left;
+    text-align: center;
+}
+.pic-com{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45px;
+    height: 45px;
+}
+.pic-com img{
+    width: 100%;
+    height: 100%;
+}
+.nothing24{
+    margin-top: 20px;
+    color: black;
+}
+.with-picand-details{
+    display: flex;
+    margin-top: 50px;
+    width: 100%;
+    height: 430px;
+    /* border: 1px solid red; */
+}
+.for-like-that{
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    width: 309px;
+    /* border: 1px solid green; */
+    float: left;
+}
+.for-pic-of-23{
+    box-shadow: 0px 0px 9px -3px grey;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    width: 95%;
+    height: 40%;
+}
+.for-pic-of-23 img{
+    width: 100%;
+    height: 100%;
+} 
+.new-trend{
+    margin-left: 30px;
+    font-size: 18px;
+    color: rgb(189, 55, 55);
+}
+.nhinhi{
+    margin-left: 10px;
+}
+.hahahhaha{
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.just-aise-hi{
+    margin-left: 10px;
+    color: blue;
+}
+.full-backward{
+    background: url("../img/as-a.jpeg") no-repeat 50%;
+    margin-top: 20px;
+    width: 100%;
+    height: 550px;
+    border: 1px solid gray;
+}
+.for-information-and-kuchnhi{
+    width: 339px;
+    height: 223px;
+    background-color: white;
+    transform: translate(60px, 157px);
+}
+.ehdjsrfhdj{
+    margin-left: 15px;
+}
+.hfebdjskmerg{
+    font-size: 16px;
+    width: 137px;
+    height: 40px;
+    margin-top: 24px;
+    margin-left: 48px;
+    color: white;
+    border: none;
+    background-color: #0067b8;
+}
+#for-business{
+    /* float: left; */
+    display: flex;
+    flex-direction: column;
+    /* background-color: aqua; */
+    margin-top: 20px;
+    width: 100%;
+    height: 480px;
+    /* border: 1px solid pink; */
+}
+.kuch-nhobe{
+    margin-top: -1px;
+    margin-left: 67px;
+}
+.for-second-boxodod{
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    width: 97%;
+    height: 100%;
+    /* border: 1px solid yellowgreen; */
+}
+.fordetails-and-pic{
+    float: left;
+    margin-left: 13px;
+    margin-top: -15px;
+    width: 309px;
+    height: 430px;
+    /* border: 1px solid greenyellow; */
+}
+.forpic-ji-aur-kuch-na{
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    height: 40%;
+}
+.forpic-ji-aur-kuch-na img{
+    width: 100%;
+    height: 100%;
+}
+.bhakkkk{
+    margin-left: 15px;
+}
+.ejhgdwed{
+    margin-left: 15px;
+}
+.logo-and-line{
+    display: flex;
+    margin-top: 20px;
+    width: 100%;
+    height: 40px;
+    /* border: 1px solid red; */
+}
+.hejjedjhewd{
+    margin-left: 50px;
+}
+.logo-like-pic{
+    margin-left: 20px;
+    margin-top: 8px;
+    width: 32px;
+    height: 32px;
+}
+.logo-like-pic img{
+    width: 100%;
+    height: 100%;
+}
+.last-para{
+    margin-top: 40px;
+    /* border: 1px solid orange; */
+    width: 100%;
+    background-color: rgb(218, 218, 218);
+    height: 316px;
+}
+.last-coloum{
+    width: 500px;
+    height: 100px;
+    border: 1px solid tomato;
+}
+.for-under-info{
+    float: left;
+    width: 220px;
+    height: 100%;
+    /* border: 1px solid forestgreen; */
+}
+.for-under-info h4{
+    margin-left: 35px;
+}
+ul{
+    font-size: 11px;
+    text-align: start;
+}

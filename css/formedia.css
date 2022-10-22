@@ -1,0 +1,117 @@
+@media(max-width: 600px){
+    
+    .last-para{
+        width: 90%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        /* border: 1px solid red; */
+        background: #f2f2f2;
+    }
+    .for-some-pic-and-details{
+        width: 90%;
+        border: 1px solid red;
+    }
+    .for-logo-and-follo{
+        width: 90%;
+        margin-left: 1px;
+        border: 1px solid red;
+    }
+    .logo-like{
+        width: 13%;
+        height: 30px;
+        margin-top: 10px;
+    }
+    .for-underthats-box{
+        width: 100%;
+        /* border: 1px solid goldenrod; */
+        display: flex;
+        flex-direction: column;
+    }
+    .multi-boxers{
+        width: auto;
+    }
+    .for-some-data-and-large-pic{
+        /* display: flex; */
+        margin-top: 190px;
+        height: auto;
+        width: 90%;
+        border: 1px solid red;
+    }
+    .aamicrosoft-back{
+        margin-top: 20px;
+        width: 90%;
+        height: 400px;
+    }
+    .for-some-important{
+        margin-top: 400px;
+        width: 90%;
+        height: auto;
+        margin-left: -10px;
+    }
+    .free-boxes{
+        /* border: 1px solid green; */
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .for-some-important p{
+        width: 100%;
+    }
+    nav{
+        width: auto;
+    }
+    .text-for button{
+        width: 20%;
+        height: 50px;
+        font-size: 16px;
+    }
+    .under-boxes-like-that{
+        display: flex;
+        flex-direction: column;
+        margin-top: 20px;
+        /* border: 1px solid black; */
+        /* margin-left: 60px; */
+        /* margin-left: auto;
+        margin-right: auto; */
+    }
+    .text-for{
+            width: 90%;
+            font-size: 20px;
+            background-color: white;
+    }
+    .text-for h1{
+        margin-top: -10px;
+    }
+    .for-backgroundpic{
+        width: 90%;
+        height: 400px;
+    }
+    .for-background-picdj{
+        height: auto;
+        display: flex;
+        flex-direction: column;
+    }
+    .logo-with-details{
+        width: 90%;
+        height: 400px;
+        margin-top: 20px;
+        /* background-color: blue;0 */
+        /* border: 1px solid orangered; */
+    }
+    .for-multiboxes{
+        width: 100%;
+        height: 100%;
+        text-align: center;
+    }
+    .under-boxer{
+        width: 100%;
+        height: auto;
+    }
+    .forpic{
+    width: 10%;
+    margin-top: 40px;
+    }
+    .text-ke-liya{
+        font-size: 18px;
+    }
+}
